@@ -1,0 +1,8 @@
+{
+  "name": "popn-netlify-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions for POPN",
+  "dependencies": {
+    "firebase-admin": "^13.0.0"
+  }
+}
