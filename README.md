@@ -1,4 +1,4 @@
-# WHY Chat (chat.html)
+# whyCHAT
 
 A ready-to-fork, open-source Discord analogue. Place this folder on GitHub, slice it into your own community, and keep the polished chat UI under your control.
 
